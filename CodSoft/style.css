@@ -1,0 +1,250 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+header{
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+body{
+    background-image: url("d9.jpg");
+    background-size: repeat;
+    
+   
+   
+}
+#d0{
+    height: 100px;
+    width: 500px;
+    color:black;
+    
+    font-size: 40px;
+    font-weight:100px;
+    margin-left: 950px;
+    border-style: solid;
+    border-color: black;
+    background: linear-Gradient(to right, pink 60%,skyblue 40%);
+    
+
+}
+
+#container{
+    height: 70px;
+    width:1800px;
+    color: black;
+    background-color: black;
+    font-weight: bolder;
+    text-align: center;
+    
+    border-style: solid;
+    border-color:black;
+    border: width 3px; ;
+    font-size: 50px;
+    background: linear-Gradient(to right, pink 60%,skyblue 40%);
+    
+}
+#d11:hover{
+    rotate:45deg;
+        display: flex;
+        flex-direction: row;
+
+}
+#d11{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d1.jpg");
+    background-size: cover;
+    color: black;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    
+
+}
+#navbar{
+    height: 45px;
+    width: 100%;
+    background: linear-Gradient(to right, pink 60%,skyblue 40%);
+    color: red;
+   
+}
+a{
+    margin-right: 250px;
+}
+ #d1:hover{
+    
+        rotate :45deg;
+        
+        display: flex;
+        flex-direction: row;
+ } 
+
+#d1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d2.jpg");
+    background-size: cover;
+    color: black;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    
+       
+   
+    
+    
+}
+#d12:hover{
+    
+    rotate:45deg;
+    display: flex;
+    flex-direction: row;
+} 
+#d12{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d7.jpg");
+    background-size: cover;
+   margin-left: 1000px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   color: black;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;
+  
+   
+   
+    
+   
+}
+#d2:hover{
+    
+    rotate:45deg;
+    display: flex;
+    flex-direction: row;
+} 
+#d2{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d1.jpg");
+    background-size: cover;
+   margin-left: 200px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   color: black;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;  
+   
+}
+#d3:hover{
+    
+    rotate:45deg;
+    display: flex;
+    flex-direction: row;
+} 
+#d3{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d9.jpg");
+    background-size: cover;
+    margin-left: 400px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: black;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;  
+}
+#d4:hover{
+    
+    rotate:45deg;
+    display: flex;
+    flex-direction: row;
+} 
+#d4{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d4.jpg");
+    background-size: cover;
+    margin-left: 600px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: black;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;   
+}
+#d5:hover{
+    
+    rotate:45deg;
+    display: flex;
+    flex-direction: row;
+} 
+#d5{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d5.jpg");
+    background-size: cover;
+    margin-left: 800px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: black;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;
+}
+#d6:hover{
+    
+    rotate:45deg;
+    display: flex;
+    flex-direction: row;
+} 
+#d6{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    background-image: url("d6.jpg");
+    background-size: cover;
+    margin-left: 1000px;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: black;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;    
+}
+
+footer{
+    color: red;
+    background-color: black;
+    text-align: center;
+    
+}
+button{
+    background-color: orange;
+}
